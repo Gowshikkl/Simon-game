@@ -1,4 +1,4 @@
-alert("SIMON GAME:Identify the Button sequence created by the Bot to Complete the level")
+alert("SIMON GAME: Identify the Button sequence created by the Bot to Complete the level")
 var started = false;
 var level = 1;
 var gamePattern = [];
